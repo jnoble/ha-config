@@ -9,19 +9,18 @@
                 "attributes": {
                     "editable": true,
                     "id": "jessica_noble",
-                    "source": "person.jessica_noble",
                     "user_id": "ef7084b2c76c4822a8081b3105af1f2e",
                     "friendly_name": "Jessica Noble"
                 },
                 "last_changed": "2020-12-24T15:52:45.549801+00:00",
-                "last_updated": "2020-12-24T15:52:45.549801+00:00",
+                "last_updated": "2020-12-24T15:52:56.891851+00:00",
                 "context": {
-                    "id": "c63ff5b3901b04657c5466646a70d487",
+                    "id": "fc1eab0c64f442d4f097f3669cc0a62c",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2020-12-24T15:52:56.891137+00:00"
+            "last_seen": "2020-12-24T17:37:56.903528+00:00"
         },
         {
             "state": {
@@ -39,7 +38,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2020-12-24T15:52:56.891137+00:00"
+            "last_seen": "2020-12-24T17:37:56.903528+00:00"
         }
     ]
 }
