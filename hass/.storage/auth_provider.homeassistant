@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "key": "auth_provider.homeassistant",
+    "data": {
+        "users": [
+            {
+                "username": "jnoble",
+                "password": "JDJiJDEyJE1seWQ0cWx6ZTk5Lmg3QWxSNTdIT3U2WG5uMEl5M0tVWWI5SG0xaklWRGt2a0pwQWwySXV5"
+            }
+        ]
+    }
+}

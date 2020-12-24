@@ -1,0 +1,45 @@
+{
+    "version": 1,
+    "key": "core.restore_state",
+    "data": [
+        {
+            "state": {
+                "entity_id": "person.jessica_noble",
+                "state": "unknown",
+                "attributes": {
+                    "editable": true,
+                    "id": "jessica_noble",
+                    "source": "person.jessica_noble",
+                    "user_id": "ef7084b2c76c4822a8081b3105af1f2e",
+                    "friendly_name": "Jessica Noble"
+                },
+                "last_changed": "2020-12-24T15:52:45.549801+00:00",
+                "last_updated": "2020-12-24T15:52:45.549801+00:00",
+                "context": {
+                    "id": "c63ff5b3901b04657c5466646a70d487",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2020-12-24T15:52:56.891137+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "device_tracker.pixel_3",
+                "state": "unknown",
+                "attributes": {
+                    "source_type": "gps",
+                    "friendly_name": "Pixel 3"
+                },
+                "last_changed": "2020-12-24T15:52:46.746666+00:00",
+                "last_updated": "2020-12-24T15:52:46.746666+00:00",
+                "context": {
+                    "id": "0d7fa97c9db8c6113d24ca4bd61d711d",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2020-12-24T15:52:56.891137+00:00"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+2020-12-24 10:52:43 WARNING (Recorder) [homeassistant.components.recorder] Ended unfinished session (id=3 from 2020-12-24 15:24:41.453555)
+2020-12-24 10:52:46 WARNING (MainThread) [homeassistant.components.hue.light] Please check for software updates of the kitchen 1 bulb in the Philips Hue App.
+2020-12-24 10:52:46 WARNING (MainThread) [homeassistant.components.hue.light] Please check for software updates of the kitchen 2 bulb in the Philips Hue App.
+2020-12-24 10:52:46 WARNING (MainThread) [homeassistant.components.hue.light] Please check for software updates of the kitchen 3 bulb in the Philips Hue App.
+2020-12-24 10:52:46 WARNING (MainThread) [homeassistant.components.hue.light] Please check for software updates of the kitchen 4 bulb in the Philips Hue App.

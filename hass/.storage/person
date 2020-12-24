@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "key": "person",
+    "data": {
+        "items": [
+            {
+                "name": "Jessica Noble",
+                "user_id": "ef7084b2c76c4822a8081b3105af1f2e",
+                "device_trackers": [
+                    "device_tracker.pixel_3"
+                ],
+                "id": "jessica_noble"
+            }
+        ]
+    }
+}

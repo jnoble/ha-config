@@ -1,0 +1,92 @@
+{
+    "version": 1,
+    "key": "core.config_entries",
+    "data": {
+        "entries": [
+            {
+                "entry_id": "8e745df27a0d846021468f64a263ce56",
+                "version": 1,
+                "domain": "met",
+                "title": "Home",
+                "data": {
+                    "track_home": true
+                },
+                "options": {},
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "onboarding",
+                "connection_class": "cloud_poll",
+                "unique_id": null
+            },
+            {
+                "entry_id": "e83dd92468a135fa6c70e58e40def7f2",
+                "version": 1,
+                "domain": "mobile_app",
+                "title": "Pixel 3",
+                "data": {
+                    "app_id": "io.homeassistant.companion.android",
+                    "app_name": "Home Assistant",
+                    "app_version": "3.0.2-full (521)",
+                    "device_name": "Pixel 3",
+                    "manufacturer": "Google",
+                    "model": "Pixel 3",
+                    "os_name": "Android",
+                    "os_version": "30",
+                    "supports_encryption": false,
+                    "app_data": {
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+                        "push_token": "c6UcAzSHRc-cyhVkad_m90:APA91bFheeeNW3lS1i4eWzRyZ9IKdyZIooXicSsy8N0GYnsTNSBZY1Hc7Nhh_Z8sFVdF3zit1oM27iRbi-vv7ng1lHemxXMp0iG8lDRv2guB-GUVv_IcIhda-5AscoQhdz2meWcjElkg"
+                    },
+                    "device_id": "6a25ac0436c13175",
+                    "webhook_id": "beb2e56dabb7dc17a5add8597dc640df260bb2ca84ff682993f26bf865725510",
+                    "user_id": "ef7084b2c76c4822a8081b3105af1f2e"
+                },
+                "options": {},
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "registration",
+                "connection_class": "cloud_push",
+                "unique_id": "io.homeassistant.companion.android-6a25ac0436c13175"
+            },
+            {
+                "entry_id": "e822f8e34c412fc70e9119aecb72fe48",
+                "version": 1,
+                "domain": "upnp",
+                "title": "eero",
+                "data": {
+                    "udn": "uuid:fcdb9233-a63f-41da-b42c-7cfeb99c8adf",
+                    "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1"
+                },
+                "options": {},
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "ssdp",
+                "connection_class": "local_poll",
+                "unique_id": "uuid:fcdb9233-a63f-41da-b42c-7cfeb99c8adf::urn:schemas-upnp-org:device:InternetGatewayDevice:1"
+            },
+            {
+                "entry_id": "7b724ba45be3e42541fc4a352a2dea32",
+                "version": 1,
+                "domain": "hue",
+                "title": "Philips hue",
+                "data": {
+                    "host": "192.168.4.56",
+                    "username": "kJcWhXiPF93DDXSLwnk3A83yHWj2Kp0jv9s5uMe-"
+                },
+                "options": {
+                    "allow_hue_groups": true,
+                    "allow_unreachable": true
+                },
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "homekit",
+                "connection_class": "local_poll",
+                "unique_id": "ecb5fa0c2595"
+            }
+        ]
+    }
+}

@@ -1,0 +1,370 @@
+{
+    "version": 1,
+    "key": "core.device_registry",
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "8e745df27a0d846021468f64a263ce56"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "met"
+                    ]
+                ],
+                "manufacturer": "Met.no",
+                "model": "Forecast",
+                "name": "Forecast",
+                "sw_version": null,
+                "entry_type": "service",
+                "id": "031c5586b8f0ed536e5fae907fb581bb",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "e83dd92468a135fa6c70e58e40def7f2"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "6a25ac0436c13175"
+                    ]
+                ],
+                "manufacturer": "Google",
+                "model": "Pixel 3",
+                "name": "Pixel 3",
+                "sw_version": "30",
+                "entry_type": null,
+                "id": "8a523352923ff784d8a7fa4aabd73b11",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "e822f8e34c412fc70e9119aecb72fe48"
+                ],
+                "connections": [
+                    [
+                        "upnp",
+                        "uuid:fcdb9233-a63f-41da-b42c-7cfeb99c8adf"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:fcdb9233-a63f-41da-b42c-7cfeb99c8adf"
+                    ]
+                ],
+                "manufacturer": "eero inc.",
+                "model": "",
+                "name": "eero",
+                "sw_version": null,
+                "entry_type": null,
+                "id": "61c8274ae93d3fe04fb2751599ff63c3",
+                "via_device_id": null,
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "ec:b5:fa:0c:25:95"
+                    ]
+                ],
+                "identifiers": [
+                    [
+                        "hue",
+                        "ECB5FAFFFE0C2595"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB002",
+                "name": "Philips hue",
+                "sw_version": "1941132080",
+                "entry_type": null,
+                "id": "05ff50c290880cc88be15cf4f0052a54",
+                "via_device_id": null,
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:74:e0:66"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue dimmer switch",
+                "name": "Living room switch",
+                "sw_version": "5.45.1.17846",
+                "entry_type": null,
+                "id": "432fa45291adfdc6eebdfadd80b2f71c",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:74:e1:ec"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue dimmer switch",
+                "name": "Dining room switch",
+                "sw_version": "6.1.1.28573",
+                "entry_type": null,
+                "id": "e0cef36d6f28a6882dcf53e08d24665b",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "dining_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:74:e1:75"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue dimmer switch",
+                "name": "kitchen switch",
+                "sw_version": "5.45.1.17846",
+                "entry_type": null,
+                "id": "83ff8f14221ac02f1fd26464c3590285",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "kitchen",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:d3:bc:c8-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color lamp",
+                "name": "living room 1",
+                "sw_version": "1.50.2_r30933",
+                "entry_type": null,
+                "id": "c9578ed0cb3c2225469c26a2ffc232b5",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:be:63:a5-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color lamp",
+                "name": "living room 2",
+                "sw_version": "1.50.2_r30933",
+                "entry_type": null,
+                "id": "57feead2383f514ae40e6cab2e5a9f73",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "living_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:8b:03:27-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color lamp",
+                "name": "dining room 1",
+                "sw_version": "1.50.2_r30933",
+                "entry_type": null,
+                "id": "a8101bd1564ffb0162921cd2ecff1a40",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "dining_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:44:da:6a-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "dining room 3",
+                "sw_version": "1.50.2_r30933",
+                "entry_type": null,
+                "id": "d0573e68fed5c1335fd06b3552af737f",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "dining_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:c9:86:ec-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color lamp",
+                "name": "dining room 2",
+                "sw_version": "1.50.2_r30933",
+                "entry_type": null,
+                "id": "d01315373eb410ef390687f2d007d7b2",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "dining_room",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:5d:40:b8-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "kitchen 1",
+                "sw_version": "1.23.0_r20156",
+                "entry_type": null,
+                "id": "d9399544ba97c83dcff42f45bce6dce9",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "kitchen",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:0e:62:de-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "kitchen 2",
+                "sw_version": "1.23.0_r20156",
+                "entry_type": null,
+                "id": "0d94fea27cd82ecbfe288c9e85c8eeb2",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "kitchen",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:0e:50:52-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "kitchen 3",
+                "sw_version": "1.23.0_r20156",
+                "entry_type": null,
+                "id": "4f76824a0002957b5d2a3375b77ebe63",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "kitchen",
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "7b724ba45be3e42541fc4a352a2dea32"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:44:bc:f3-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "kitchen 4",
+                "sw_version": "1.23.0_r20156",
+                "entry_type": null,
+                "id": "b1fde13b152d0286b2849011a89af758",
+                "via_device_id": "05ff50c290880cc88be15cf4f0052a54",
+                "area_id": "kitchen",
+                "name_by_user": null,
+                "disabled_by": null
+            }
+        ],
+        "deleted_devices": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "version": 1,
+    "key": "auth",
+    "data": {
+        "users": [
+            {
+                "id": "ef7084b2c76c4822a8081b3105af1f2e",
+                "group_ids": [
+                    "system-admin"
+                ],
+                "is_owner": true,
+                "is_active": true,
+                "name": "Jessica Noble",
+                "system_generated": false
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "credentials": [
+            {
+                "id": "f7c8b15139144a6389ee830be45dea00",
+                "user_id": "ef7084b2c76c4822a8081b3105af1f2e",
+                "auth_provider_type": "homeassistant",
+                "auth_provider_id": null,
+                "data": {
+                    "username": "jnoble"
+                }
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "id": "e0dbd89153f644b8879b296af5284004",
+                "user_id": "ef7084b2c76c4822a8081b3105af1f2e",
+                "client_id": "https://home-assistant.io/android",
+                "client_name": null,
+                "client_icon": null,
+                "token_type": "normal",
+                "created_at": "2020-12-24T15:07:18.182784+00:00",
+                "access_token_expiration": 1800.0,
+                "token": "f7cb47b10820b888181c54452aab6f379c17843a1c46f69409e7d2f63d2befed1d8cd306d79de7b47d9826e9afb574b9bf5253f1558facdc907a82bd01eb82ce",
+                "jwt_key": "08e0145f5ab5639034f03076bae965877b8a97fc8cc9ba8bba2a527cfc06d9ba14f61d9ec3b2118273db6aced74d47ccc851b8cbefe516155da0c07ae3ca96df",
+                "last_used_at": "2020-12-24T15:07:18.183163+00:00",
+                "last_used_ip": "192.168.4.35"
+            }
+        ]
+    }
+}
